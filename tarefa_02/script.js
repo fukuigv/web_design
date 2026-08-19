@@ -1,3 +1,4 @@
+
 let contador = 0
 
 document.getElementById("Botao").onclick = () => {
